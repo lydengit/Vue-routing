@@ -1,0 +1,11 @@
+body {
+  background-color: #404040;
+  color: whitesmoke;
+}
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
